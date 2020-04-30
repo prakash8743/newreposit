@@ -1,0 +1,7 @@
+<suite name="SuitesDemo">
+<test name="TestsDemo">
+<classes>
+<class name="com.org.selenium.mavendemo.testdemo"></class>
+</classes>
+</test>
+</suite>
