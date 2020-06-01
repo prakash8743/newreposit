@@ -21,7 +21,7 @@ driver=new FirefoxDriver();
 }
 else
 {
-System.out.println("No Browser Presenteds");	
+System.out.println("No Browser Presented");	
 }
 driver.get("http://www.demoqa.com/");		
 return driver;
